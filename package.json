@@ -60,7 +60,7 @@
     "yaml": "^1.10.2"
   },
   "scripts": {
-    "p": "npx tailwindcss -i ./src/input.css -o ./src/css/beta.css --watch"
+    "p": "npx tailwindcss -i ./src/input.css -o ./src/css/main.css --watch"
   },
   "keywords": [],
   "author": "",
