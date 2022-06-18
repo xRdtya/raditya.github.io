@@ -24,7 +24,7 @@ if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.match
 // Typewriter
 document.addEventListener('DOMContentLoaded', function (event) {
     // array with texts to type in typewriter
-    var dataText = ["Raditya", "Full Stack Web Developer"];
+    var dataText = ["Raditya", "Full Stack Developer"];
 
     // type one text in the typwriter
     // keeps calling itself until the text is finished
